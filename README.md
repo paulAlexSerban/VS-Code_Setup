@@ -138,5 +138,6 @@ Just go to settings in VSCode, and on the right side, go to `Edit in settings.js
     "js": [],
     "css": []
   },
+  "terminal.integrated.fontSize": 12
 }
 ```
